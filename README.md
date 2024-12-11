@@ -60,3 +60,6 @@ Source: [Craigslist Cars and Trucks Dataset on Kaggle](https://www.kaggle.com/da
 - Develop an interactive dashboard for dynamic visualizations.
 - Analyze the impact of listing dates on car price
 
+## Credits & License
+- Dataset: [Craigslist Cars and Trucks Dataset on Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+- License: This project is licensed under the MIT License.
